@@ -9,7 +9,6 @@ use pocketmine\math\Vector3;
 use pocketmine\event\entity\EntityDamageEvent;
 use pocketmine\event\player\PlayerMoveEvent;
 use pocketmine\utils\{Config, TextFormat as TF};
-//Developped by CookieCode.
 
 class Main extends PluginBase implements Listener {
 
